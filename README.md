@@ -9,6 +9,6 @@ Youtube - Build a robust REST API from scratch using the MERN stack - MongoDB, E
 #### [Part 2: Implementation](https://www.youtube.com/watch?v=_o8FXnfx6KM&t=25s)
 
 ## Installation
-`git clone https://github.com/fullstackpro-io/menn-stack-api.git`
+`git clone https://github.com/fullstackpro-io/men-stack-api.git`
 `npm install`
 
