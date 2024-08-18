@@ -1,5 +1,5 @@
-# REST API using the MERN Stack
-Youtube - Build a robust REST API from scratch using the MERN stack - MongoDB, Express, and NodeJs
+# REST API using the MEN Stack
+Youtube - Build a robust REST API from scratch using the MEN stack - MongoDB, Express, and NodeJs
 
 ## Demo and Documentation
 #### [Link to Postman](https://documenter.getpostman.com/view/19136487/2s93z6dj27)
